@@ -1,2 +1,2 @@
-path: "my_model.joblib"
+path: "fixed_model.joblib"
 features: ['body_mass_g',  'bill_depth_mm'] # You are allowed to add only two features.
